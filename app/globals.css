@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+button {
+    cursor: pointer;
+}
+
+.input {
+  @apply border border-red-600 p-3 rounded-xl focus:ring-2 focus:ring-[red];
+}
+
+.upload-box {
+  @apply flex items-center justify-center border-2 border-dashed rounded-xl cursor-pointer p-3;
+}
+
+.btn-primary {
+  @apply bg-[red] text-white px-6 py-3 rounded-xl hover:bg-red-600;
+}
+
+.icon-btn {
+  @apply text-white p-2 rounded-full shadow;
+}
+
+input {
+    outline: none;
+}
