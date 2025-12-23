@@ -44,8 +44,8 @@ The app includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/ZenZN99/Pinterest-clone.git
+cd Pinterest-clone
 2. Install dependencies
 bash
 Copy code
@@ -89,6 +89,7 @@ Copy code
  │   └─ logo.png
  └─ /styles
      └─ globals.css
+```
 🧑‍💻 Usage
 Create an account or log in.
 
